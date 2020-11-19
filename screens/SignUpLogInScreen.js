@@ -73,7 +73,7 @@ export default class SignUpLogInScreen extends Component{
         return(
             <View style = {styles.container}>
                 <View>
-                    <Text style = {styles.title}>Book Santa</Text>
+                    <Text style = {styles.title}>Barter</Text>
                 </View>
                 <View>
                     <TextInput
